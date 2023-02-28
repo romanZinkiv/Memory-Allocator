@@ -1,0 +1,1 @@
+gcc -o memoryAllocator.so -fPIC -shared memoryAllocator.c
